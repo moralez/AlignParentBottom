@@ -24,4 +24,15 @@
             android:background="@android:color/black" />
     </LinearLayout>
 
+    <ImageView
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="50dip"
+        android:padding="10dip"
+        android:src="@drawable/ic_launcher"
+        android:background="@android:color/black">
+    </ImageView>
+
 </RelativeLayout>
